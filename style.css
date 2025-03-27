@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
     background-color: aqua;
@@ -210,5 +210,8 @@ body{
     margin-right: auto;
     text-align: center;
     background-color:lightgoldenrodyellow;
-    font-family: "Fontdiner Swanky", serif;
+    font-family: "Grandstander", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
 }
