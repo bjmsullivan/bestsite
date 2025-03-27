@@ -200,6 +200,8 @@ body{
 }
 
 
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+
 .middle{
     font-size: xx-large;
     width: 80%;
@@ -207,5 +209,5 @@ body{
     margin-right: auto;
     text-align: center;
     background-color:lightgoldenrodyellow;
-    font-family: "Comic Sans MS", "Comic Sans", default;
+    font-family: "Fontdiner Swanky", serif;
 }
