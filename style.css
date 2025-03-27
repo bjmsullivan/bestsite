@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+
 body{
     background-color: aqua;
 }
@@ -200,7 +202,6 @@ body{
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
 
 .middle{
     font-size: xx-large;
